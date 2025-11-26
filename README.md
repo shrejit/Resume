@@ -1,7 +1,7 @@
 
   # Webpage for Visual Interaction
 
-  This is a code bundle for Webpage for Visual Interaction. The original project is available at https://www.figma.com/design/rr7TYeeHU2AhvKZou3MBmV/Webpage-for-Visual-Interaction.
+ This is my Resume, created with options like contacting me, downloading the resume, viewing my projects and etc
 
   ## Running the code
 
